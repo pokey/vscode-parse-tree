@@ -20,6 +20,7 @@ const languages: {
   css: { module: "tree-sitter-css" },
   elm: { module: "tree-sitter-elm" },
   go: { module: "tree-sitter-go" },
+  hack: { module: "tree-sitter-hack"},
   haskell: { module: "tree-sitter-haskell" },
   html: { module: "tree-sitter-html" },
   java: { module: "tree-sitter-java" },
